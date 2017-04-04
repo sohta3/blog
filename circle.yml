@@ -10,5 +10,5 @@ deployment:
   latest:
     branch: master
     commands:
-      - hugo
+      - hugo --theme=hemingway2
       - firebase --token $FIREBASE_TOKEN deploy
