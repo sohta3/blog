@@ -3,6 +3,6 @@ title = "s5ot's blog"
 baseURL = "https://s5ot-9675e.firebaseapp.com"
 author = "s5ot"
 copyright = "s5ot All rights reserved."
-theme = "hemingway2"
+theme = "s5ot"
 
 [Params]
